@@ -1,0 +1,44 @@
+[
+    {
+        "tag": "apartman",
+        "src": "https://maps.google.com/maps?q=meteoroloska%2010%20zlatibor&t=&z=15&ie=UTF8&iwloc=&output=embed",
+        "title": "Apartman",
+        "text": "Vaša polazna tačka"
+    },
+    {
+        "tag": "stopica-pecina",
+        "src": "https://maps.google.com/maps?q=stopića+pećina&t=&z=16&ie=UTF8&iwloc=&output=embed",
+        "title": "Stopića pećina",
+        "text": "Obavezno posetite. Parking na mapi je dobro obeležen, ali put koji sa glavnog puta vodi do parkinga ne postoji u svim navigacijama...pratite i znakove na putu"
+    },
+    {
+        "tag": "naselje",
+        "src": "https://maps.google.com/maps?q=@43.737205,19.7079215&t=&z=18&ie=UTF8&iwloc=&output=embed",
+        "title": "Naselje",
+        "text": "Dobro snabdevena prodavnica, mesara i roštilj, kafići, igralište...sve na 5 minuta od apartmana"
+    },
+    {
+        "tag": "mokra-gora",
+        "src": "https://maps.google.com/maps?q=šarganska+osmica&t=&z=11&ie=UTF8&iwloc=&output=embed",
+        "title": "Mokra Gora",
+        "text": "Šarganska Osmica, Drvengrad i prelepa priroda"
+    },
+    {
+        "tag": "vodopad-gostilje",
+        "src": "https://maps.google.com/maps?q=vodopad+gostilje&t=&z=15&ie=UTF8&iwloc=&output=embed",
+        "title": "Vodopadi Gostilje",
+        "text": "Niz stazu koja vodi izmedju nekoliko prelepih vodopada dolazite do reke koja je i savršeno mesto za odmor pre nego što krenete nazad...uzbrdo. U bilizini se nalazi i restoran."
+    },
+    {
+        "tag": "ski-centar-tornik",
+        "src": "https://maps.google.com/maps?q=tornik+ski+center&t=&z=14&ie=UTF8&iwloc=&output=embed",
+        "title": "Ski centar Tornik",
+        "text": "Zimi skijanje, leti šetnja. Sa vrha, u daljini, vidi se ribničko jezero i vrhovi planina, a u podnožju je park za decu i kafić."
+    },
+    {
+        "tag": "sirogojno",
+        "src": "https://maps.google.com/maps?q=sirogojno+etno+selo&t=&z=11&ie=UTF8&iwloc=&output=embed",
+        "title": "Sirogojno",
+        "text": "Etno selo, prelep ambijent i naravno najkvalitenije vunene čarape."
+    }
+]
